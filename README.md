@@ -1,2 +1,2 @@
 # hello-world
-Just training
+Just training for myself
